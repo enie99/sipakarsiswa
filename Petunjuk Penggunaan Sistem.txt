@@ -1,0 +1,10 @@
+LANGKAH ALUR PENGGUNAAN SISTEM :
+1. Login sebagai admin
+2. Masukkan data guru
+3. Masukkan data orang tua
+4. Masukkan data siswa
+5. Masukkan data jurusan
+6. Masukkan data kelas
+7. Buat akun user untuk guru kesiswaan/BK, wali kelas, kepala sekolah, siswa
+8. Masukkan tahun ajaran (Ada pada halaman home pojok kanan atas)
+9. Masukkan master data kategori pelanggaran, sub kategori pelanggaran
